@@ -1,0 +1,8 @@
+C:\Users\kevin.wang\source\repos\serilog.test\serilog.test\bin\Debug\netcoreapp2.1\serilog.test.deps.json
+C:\Users\kevin.wang\source\repos\serilog.test\serilog.test\bin\Debug\netcoreapp2.1\serilog.test.runtimeconfig.json
+C:\Users\kevin.wang\source\repos\serilog.test\serilog.test\bin\Debug\netcoreapp2.1\serilog.test.runtimeconfig.dev.json
+C:\Users\kevin.wang\source\repos\serilog.test\serilog.test\bin\Debug\netcoreapp2.1\serilog.test.dll
+C:\Users\kevin.wang\source\repos\serilog.test\serilog.test\obj\Debug\netcoreapp2.1\serilog.test.csprojAssemblyReference.cache
+C:\Users\kevin.wang\source\repos\serilog.test\serilog.test\obj\Debug\netcoreapp2.1\serilog.test.csproj.CoreCompileInputs.cache
+C:\Users\kevin.wang\source\repos\serilog.test\serilog.test\obj\Debug\netcoreapp2.1\serilog.test.AssemblyInfoInputs.cache
+C:\Users\kevin.wang\source\repos\serilog.test\serilog.test\obj\Debug\netcoreapp2.1\serilog.test.AssemblyInfo.cs

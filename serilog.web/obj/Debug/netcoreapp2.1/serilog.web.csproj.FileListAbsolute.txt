@@ -1,0 +1,14 @@
+C:\Users\kevin.wang\source\repos\serilog.test\serilog.web\bin\Debug\netcoreapp2.1\serilog.web.deps.json
+C:\Users\kevin.wang\source\repos\serilog.test\serilog.web\bin\Debug\netcoreapp2.1\serilog.web.runtimeconfig.json
+C:\Users\kevin.wang\source\repos\serilog.test\serilog.web\bin\Debug\netcoreapp2.1\serilog.web.runtimeconfig.dev.json
+C:\Users\kevin.wang\source\repos\serilog.test\serilog.web\bin\Debug\netcoreapp2.1\serilog.web.dll
+C:\Users\kevin.wang\source\repos\serilog.test\serilog.web\bin\Debug\netcoreapp2.1\serilog.web.pdb
+C:\Users\kevin.wang\source\repos\serilog.test\serilog.web\obj\Debug\netcoreapp2.1\serilog.web.csproj.CoreCompileInputs.cache
+C:\Users\kevin.wang\source\repos\serilog.test\serilog.web\obj\Debug\netcoreapp2.1\serilog.web.RazorAssemblyInfo.cache
+C:\Users\kevin.wang\source\repos\serilog.test\serilog.web\obj\Debug\netcoreapp2.1\serilog.web.RazorAssemblyInfo.cs
+C:\Users\kevin.wang\source\repos\serilog.test\serilog.web\obj\Debug\netcoreapp2.1\serilog.web.AssemblyInfoInputs.cache
+C:\Users\kevin.wang\source\repos\serilog.test\serilog.web\obj\Debug\netcoreapp2.1\serilog.web.AssemblyInfo.cs
+C:\Users\kevin.wang\source\repos\serilog.test\serilog.web\obj\Debug\netcoreapp2.1\serilog.web.RazorTargetAssemblyInfo.cache
+C:\Users\kevin.wang\source\repos\serilog.test\serilog.web\obj\Debug\netcoreapp2.1\serilog.web.dll
+C:\Users\kevin.wang\source\repos\serilog.test\serilog.web\obj\Debug\netcoreapp2.1\serilog.web.pdb
+C:\Users\kevin.wang\source\repos\serilog.test\serilog.web\obj\Debug\netcoreapp2.1\serilog.web.csprojAssemblyReference.cache
